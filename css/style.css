@@ -102,11 +102,7 @@ header {
     background-color: brown;
   
 }
-.cane{
-    background-color: chartreuse;
-    width: 38%;
-    height: 40px;
-}
+
 
 /* regole corpo centrale */
 .img{
@@ -142,14 +138,11 @@ footer {
       
 }
 
-.last{
+.end{
     display: flex;
     justify-content: space-around;
-    width: 60%;
+    
+    
     height: 40px;
     
 }
-.cane{
-    display: flex;
-    
-}t
