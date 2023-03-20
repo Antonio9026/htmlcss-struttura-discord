@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* regole debug */
+header {
+    background-color: blueviolet;
+    min-height: 400px;
+    
+   
+    
+
+}
+
+.row-up {
+    background-color: crimson;
+    
+    width: 72%;
+    height: 40px;
+
+    
+}
+
+.logo{
+    background-color: black;
+    width: 18%;
+    height: 40px;
+   
+}
+.accedi{
+    height: 40px;
+    width: 7%;
+}
+.title{
+    background-color: darkgreen;
+    width: 400px;
+    min-height: 40px;
+}
+/* regole nav  */
+header{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.row-up{
+    display: flex;
+    justify-content: center; 
+   
+}
+.title{
+ display: flex;
+ flex-direction: column;
+
+ align-items: center;
+    
+   
+}
+.input{
+   text-align: center;
+   margin-top: 20px;
+}
